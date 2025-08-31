@@ -1,0 +1,4 @@
+id,name,unlock_predicate
+int,str,str
+1,Get into the secret room!,player_exp > 1000
+2,Find the hidden sword,player_level >= 5

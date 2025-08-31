@@ -1,0 +1,4 @@
+id,name,grant_type,grant_qty
+int,str,str,int
+1,Daily coin treasure,coins,100
+2,Mega Gem Pack,gems,50

@@ -1,0 +1,5 @@
+id,name,unlocked,friends_with
+int,str,bool,array[int]
+1,Wesley,true,"[2,3]"
+2,Lara,false,"[1]"
+3,John,true,"[1]"
